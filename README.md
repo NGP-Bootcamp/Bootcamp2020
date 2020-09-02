@@ -13,6 +13,7 @@ Materials for the UC San Diego Neurosciences Bootcamp, September 2020
 
 
 ### Sep 14: Introduction to Electrophysiology + Amplifier technologies + RC Circuits + Analysis of Allen data
+- RC Circuit Lab [[Google Doc](https://docs.google.com/document/d/1oSgRBj__LDzU_g0R2NHaBLZ0HfWBfU_FsPk_-9gjj-0/edit?usp=sharing)]
 - **01-CellTypes Notebook**
      - Cell Types Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/01-CellTypes/CellTypesNotebook.ipynb)
 
