@@ -19,7 +19,9 @@ Materials for the UC San Diego Neurosciences Bootcamp, September 2020
 - **01-CellTypes Notebook**
      - Cell Types Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/01-CellTypes/CellTypesNotebook.ipynb)
 
-- - - Coming Soon - - -
+<hr>
+
+*Coming soon...*
 
 ### Sep 15: Computational model types, modeling practice, model fitting
 
