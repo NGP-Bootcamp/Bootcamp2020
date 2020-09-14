@@ -9,9 +9,9 @@ Materials for the UC San Diego Neurosciences Bootcamp, September 2020.  To open 
      - 01: Expressions, Variables, Strings [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/00-IntroPython/01-SyntaxExpressionsVariables.ipynb)
      - 02: Data Structures [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/00-IntroPython/02-DataStructures.ipynb)
      - 03: Booleans, Conditionals, Loops [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/00-IntroPython/03-BooleansConditionalsLoops.ipynb)
-     - 04: Object-Oriented Programming [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/00-IntroPython/04-OOP.ipynb) 
-     
-*Before Monday, regardless of whether you attend on Friday, please complete NMA-Tutorial1.ipynb and NMA-Tutorial2.ipynb. We'll discuss on Monday!* 
+     - 04: Object-Oriented Programming [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/00-IntroPython/04-OOP.ipynb)
+
+*Before Monday, regardless of whether you attend on Friday, please complete NMA-Tutorial1.ipynb and NMA-Tutorial2.ipynb. We'll discuss on Monday!*
 
 
 ### Sep 14: Introduction to Electrophysiology + Amplifier technologies + RC Circuits + Analysis of Allen data
@@ -24,6 +24,14 @@ Materials for the UC San Diego Neurosciences Bootcamp, September 2020.  To open 
 *Coming soon...*
 
 ### Sep 15: Computational model types, modeling practice, model fitting
+- **Introduction to modeling** [[PDF](https://github.com/NGP-Bootcamp/Bootcamp2020/blob/master/)]
+- **02-IntroModeling Notebooks**
+     - 01: Model Fitting: Linear regression with MSE [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/02-IntroModeling/01-LinearRegressionMSE.ipynb)
+     - 02: Model Fitting: Linear regression with MLE [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/02-IntroModeling/02-LinearRegressionMLE.ipynb)
+     - 03: Model Fitting: Confidence intervals and bootstrapping *(Optional)* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/02-IntroModeling/03-Uncertainty.ipynb)
+     - 04: Model Fitting: Multiple linear regression and polynomial regression [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/02-IntroModeling/04-MultipleLinearRegression.ipynb)
+     - 05: Model Selection: Bias-variance trade-off [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/02-IntroModeling/05-BiasVariance.ipynb)
+     - 06: Model Selection: Cross-validation *(Optional)* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/02-IntroModeling/06-CrossValidation.ipynb) 
 
 ### Sep 16: Generalized linear models
 
@@ -31,7 +39,7 @@ Materials for the UC San Diego Neurosciences Bootcamp, September 2020.  To open 
 
 ### Sep 18: Bayesian stats
 
-### Sep 21 & 22: Modeling neurons and networks 
+### Sep 21 & 22: Modeling neurons and networks
 
 ### Sep 23: Synaptic plasticity and dynamic networks
 
