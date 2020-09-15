@@ -2,8 +2,7 @@ This material is adapted from [[Neuromatch Academy 2020](http://www.neuromatchac
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-This work and everything in this repo is licensed under a [Creative Commons Attribution 4.0 International
-License][cc-by].
+This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
