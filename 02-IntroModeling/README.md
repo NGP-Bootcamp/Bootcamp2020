@@ -1,4 +1,4 @@
-This material is adapted from [[Neuromatch Academy 2020](http://www.neuromatchacademy.org/syllabus/)].
+This material is adapted from [Neuromatch Academy 2020][http://www.neuromatchacademy.org/syllabus/].
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
