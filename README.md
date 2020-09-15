@@ -19,12 +19,8 @@ Materials for the UC San Diego Neurosciences Bootcamp, September 2020.  To open 
 - **01-CellTypes Notebook**
      - Cell Types Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/01-CellTypes/CellTypesNotebook.ipynb)
 
-<hr>
-
-*Coming soon...*
-
 ### Sep 15: Computational model types, modeling practice, model fitting
-- **Introduction to modeling** [[Slides](https://github.com/NGP-Bootcamp/Bootcamp2020/blob/master/)]
+- **Introduction to modeling** [[Slides](https://github.com/NGP-Bootcamp/Bootcamp2020/blob/master/02-IntroModeling/IntroModeling.pdf)]
 - **02-IntroModeling Notebooks**
      - 01: Model Fitting: Linear regression with MSE [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/02-IntroModeling/01-LinearRegressionMSE.ipynb)
      - 02: Model Fitting: Linear regression with MLE [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/02-IntroModeling/02-LinearRegressionMLE.ipynb)
@@ -32,6 +28,10 @@ Materials for the UC San Diego Neurosciences Bootcamp, September 2020.  To open 
      - 04: Model Fitting: Multiple linear regression and polynomial regression [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/02-IntroModeling/04-MultipleLinearRegression.ipynb)
      - 05: Model Selection: Bias-variance trade-off [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/02-IntroModeling/05-BiasVariance.ipynb)
      - 06: Model Selection: Cross-validation *(Optional)* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/02-IntroModeling/06-CrossValidation.ipynb)
+
+<hr>
+
+*Coming soon...*
 
 ### Sep 16: Generalized linear models
 
