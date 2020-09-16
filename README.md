@@ -31,11 +31,18 @@ Materials for the UC San Diego Neurosciences Bootcamp, September 2020.  To open 
 
 <hr>
 
-*Coming soon...*
-
 ### Sep 16: Generalized linear models
-
+- **-Machine Learning Notebooks**
+- 01: Generalized Linear Models: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/03-GLM/01-GLM.ipynb)
+- 02: Logistic Regression [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/03-GLM/02-LogisticRegression.ipynb)
+     
 ### Sep 17: Dimensionality reduction
+- 01: Introduction to PCA: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/NGP-Bootcamp/Bootcamp2020/blob/master/04-DimReduction/01-Intro.ipynb)
+- 02: PCA in 2D [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/04-DimReduction/02-PCA.ipynb)
+- 03: PCA and clustering with k-means: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/04-DimReduction/03-PCAandClustering.ipynb)
+- 04: Data reconstruction and classification:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/04-DimReduction/04-PCANeuralData.ipynb)
+
+*Coming soon...*
 
 ### Sep 18: Bayesian stats
 
