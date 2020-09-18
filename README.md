@@ -42,9 +42,13 @@ Materials for the UC San Diego Neurosciences Bootcamp, September 2020.  To open 
 - 03: PCA and clustering with k-means: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/04-DimReduction/03-PCAandClustering.ipynb)
 - 04: Data reconstruction and classification:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/04-DimReduction/04-PCANeuralData.ipynb)
 
-*Coming soon...*
-
 ### Sep 18: Bayesian stats
+- 01: Regularization in Machine learning: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/05-Bayes/01-Regularization.ipynb)
+- 02: Bayes Rule with Gaussians [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/05-Bayes/02-BayesRule.ipynb)
+- 03: Causal inference with mixture of Gaussians: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/05-Bayes/03-GaussianMixture.ipynb)
+- 04: Data rfitting: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NGP-Bootcamp/Bootcamp2020/blob/master/05-Bayes/04-DataFitting.ipynb)
+
+*Coming soon...*
 
 ### Sep 21 & 22: Modeling neurons and networks
 
